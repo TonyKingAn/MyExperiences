@@ -1,0 +1,12 @@
+c:\users\tonyan\documents\visual studio 2015\Projects\mysqlEFwithEntity\mysqlEFwithEntity\bin\Debug\mysqlEFwithEntity.exe.config
+c:\users\tonyan\documents\visual studio 2015\Projects\mysqlEFwithEntity\mysqlEFwithEntity\bin\Debug\mysqlEFwithEntity.exe
+c:\users\tonyan\documents\visual studio 2015\Projects\mysqlEFwithEntity\mysqlEFwithEntity\bin\Debug\mysqlEFwithEntity.pdb
+c:\users\tonyan\documents\visual studio 2015\Projects\mysqlEFwithEntity\mysqlEFwithEntity\bin\Debug\EntityFramework.dll
+c:\users\tonyan\documents\visual studio 2015\Projects\mysqlEFwithEntity\mysqlEFwithEntity\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\tonyan\documents\visual studio 2015\Projects\mysqlEFwithEntity\mysqlEFwithEntity\bin\Debug\MySql.Data.dll
+c:\users\tonyan\documents\visual studio 2015\Projects\mysqlEFwithEntity\mysqlEFwithEntity\bin\Debug\MySql.Data.Entity.EF6.dll
+c:\users\tonyan\documents\visual studio 2015\Projects\mysqlEFwithEntity\mysqlEFwithEntity\bin\Debug\EntityFramework.xml
+c:\users\tonyan\documents\visual studio 2015\Projects\mysqlEFwithEntity\mysqlEFwithEntity\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\tonyan\documents\visual studio 2015\Projects\mysqlEFwithEntity\mysqlEFwithEntity\obj\Debug\mysqlEFwithEntity.csprojResolveAssemblyReference.cache
+c:\users\tonyan\documents\visual studio 2015\Projects\mysqlEFwithEntity\mysqlEFwithEntity\obj\Debug\mysqlEFwithEntity.exe
+c:\users\tonyan\documents\visual studio 2015\Projects\mysqlEFwithEntity\mysqlEFwithEntity\obj\Debug\mysqlEFwithEntity.pdb
